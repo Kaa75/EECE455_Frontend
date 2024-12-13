@@ -1,7 +1,7 @@
 # How to Run
 - Either download or clone the repository before opening it in an IDE of choice
 - Make sure node.js and npm are installed (``npm install -g npm``)
-- Run the front-end using ``npm start`` or ``npm run dev`` in terminal
+- Run the front-end using ``npm start`` or ``npm run dev`` in the terminal
 - You should get a link that when clicked displays the front-end page
 - To get the full functionalities of each cipher, make sure you run the back-end according to its Read Me file
 
